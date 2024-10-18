@@ -1,53 +1,57 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/smith-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/smith-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/smith-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BbCLWdF3Bnc?style=social)](https://youtu.be/BbCLWdF3Bnc)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Sirabi08/Portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/Sirabi08/Portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Sirabi08/Portfolio?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/intent/follow?screen_name=YourTwitterHandle)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/YourYouTubeVideoID?style=social)](https://youtu.be/YourYouTubeVideoID)
 
   <br />
   <br />
 
-  <h2 align="center">Smith - Personal Portfolio Website</h2>
+  <h2 align="center">ReactJS Portfolio Website</h2>
 
-  Smith is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  This is a fully responsive personal portfolio website, <br />Built using **ReactJS** and styled with **CSS**.
 
-  <a href="https://codewithsadee.github.io/smith-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://yourusername.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
-![Smith-portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
+![React-portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![React-portfolio Desktop Demo](./readme-images/desktop1.png "Desktop Demo")
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) must be installed.
 
 ### Run Locally
 
-To run **Smith-portfolio** locally, run this command on your git bash:
+To run **ReactJS Portfolio** locally, use these commands:
 
 Linux and macOS:
 
-```bash
-sudo git clone https://github.com/codewithsadee/smith-portfolio.git
-```
+
+sudo git clone https://github.com/Sirabi08/Portfolio.git
+cd Portfolio
+npm install
+npm start
 
 Windows:
 
-```bash
-git clone https://github.com/codewithsadee/smith-portfolio.git
-```
+git clone https://github.com/Sirabi08/Portfolio.git
+cd Portfolio
+npm install
+npm start
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/siraj086).
 
 ### License
 
