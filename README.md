@@ -4,7 +4,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/Sirabi08/Portfolio?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/Sirabi08/Portfolio?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/intent/follow?screen_name=YourTwitterHandle)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/YourYouTubeVideoID?style=social)](https://youtu.be/YourYouTubeVideoID)
+  
 
   <br />
   <br />
@@ -13,7 +13,7 @@
 
   This is a fully responsive personal portfolio website, <br />Built using **ReactJS** and styled with **CSS**.
 
-  <a href="https://yourusername.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://Sirabi08.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
