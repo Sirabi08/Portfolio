@@ -22,7 +22,7 @@ function Portfolio() {
                 />
               </figure>
 
-              <a href="#" className="card-content">
+              <a href="#https://github.com/Sirabi08/flight-reservation-system.git" className="card-content">
                 <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
                 <h3 className="h3 card-title">Flight Management System</h3>
                 <p className="card-text">Web Application for Flight Booking and Management</p>
@@ -43,7 +43,7 @@ function Portfolio() {
                 />
               </figure>
 
-              <a href="#" className="card-content">
+              <a href="#https://github.com/Sirabi08/Hospital-Management-System.git" className="card-content">
                 <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
                 <h3 className="h3 card-title">Hospital Management System</h3>
                 <p className="card-text">Comprehensive Solution for Patient and Staff Management</p>
@@ -64,7 +64,7 @@ function Portfolio() {
                 />
               </figure>
 
-              <a href="#" className="card-content">
+              <a href="#https://github.com/Sirabi08/Ecommerce-React.git" className="card-content">
                 <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
                 <h3 className="h3 card-title">E-commerce Platform</h3>
                 <p className="card-text">An Online Store for Buying and Selling Products</p>
