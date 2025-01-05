@@ -13,7 +13,7 @@ function Portfolio() {
             <div className="card">
               <figure className="card-banner img-holder" style={{ "--width": "600", "--height": "675" }}>
                 <img
-                  src="./assets/images/flight-management.jpg" // Change to the correct image path
+                  src={`${process.env.PUBLIC_URL}/assets/images/flight-management.jpg`} // Correct image path
                   width="600"
                   height="675"
                   loading="lazy"
@@ -22,7 +22,7 @@ function Portfolio() {
                 />
               </figure>
 
-              <a href="#https://github.com/Sirabi08/flight-reservation-system.git" className="card-content">
+              <a href="https://github.com/Sirabi08/flight-reservation-system.git" className="card-content">
                 <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
                 <h3 className="h3 card-title">Flight Management System</h3>
                 <p className="card-text">Web Application for Flight Booking and Management</p>
@@ -34,7 +34,7 @@ function Portfolio() {
             <div className="card">
               <figure className="card-banner img-holder" style={{ "--width": "600", "--height": "675" }}>
                 <img
-                  src="./assets/images/hospital-management.avif" // Change to the correct image path
+                  src={`${process.env.PUBLIC_URL}/assets/images/hospital-management.avif`} // Correct image path
                   width="600"
                   height="675"
                   loading="lazy"
@@ -43,7 +43,7 @@ function Portfolio() {
                 />
               </figure>
 
-              <a href="#https://github.com/Sirabi08/Hospital-Management-System.git" className="card-content">
+              <a href="https://github.com/Sirabi08/Hospital-Management-System.git" className="card-content">
                 <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
                 <h3 className="h3 card-title">Hospital Management System</h3>
                 <p className="card-text">Comprehensive Solution for Patient and Staff Management</p>
@@ -55,7 +55,7 @@ function Portfolio() {
             <div className="card">
               <figure className="card-banner img-holder" style={{ "--width": "600", "--height": "675" }}>
                 <img
-                  src="./assets/images/ecommerce.avif" // Change to the correct image path
+                  src={`${process.env.PUBLIC_URL}/assets/images/ecommerce.avif`} // Correct image path
                   width="600"
                   height="675"
                   loading="lazy"
@@ -64,7 +64,7 @@ function Portfolio() {
                 />
               </figure>
 
-              <a href="#https://github.com/Sirabi08/Ecommerce-React.git" className="card-content">
+              <a href="https://github.com/Sirabi08/Ecommerce-React.git" className="card-content">
                 <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
                 <h3 className="h3 card-title">E-commerce Platform</h3>
                 <p className="card-text">An Online Store for Buying and Selling Products</p>
@@ -76,7 +76,7 @@ function Portfolio() {
             <div className="card">
               <figure className="card-banner img-holder" style={{ "--width": "600", "--height": "675" }}>
                 <img
-                  src="./assets/images/portfolio-4.jpg"
+                  src={`${process.env.PUBLIC_URL}/assets/images/portfolio-4.jpg`} // Correct image path
                   width="600"
                   height="675"
                   loading="lazy"
@@ -102,3 +102,4 @@ function Portfolio() {
 }
 
 export default Portfolio;
+
